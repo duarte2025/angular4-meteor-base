@@ -22,10 +22,13 @@ meteor remove blaze-html-templates insecure autopublish tracker mobile-experienc
 
 #### packages added
 ```
-meteor add angular2-compilers dynamic-import```
+meteor add angular2-compilers dynamic-import
+```
 
 ```
-meteor npm install zone.js rxjs reflect-metadata es6-shim --save```
+meteor npm install zone.js rxjs reflect-metadata es6-shim --save
+```
 
 ```
-meteor npm install angular2-meteor-polyfills @angular/{animations,common,compiler,core,forms,http,platform-browser,platform-browser-dynamic,platform-server,router} --save```
+meteor npm install angular2-meteor-polyfills @angular/{animations,common,compiler,core,forms,http,platform-browser,platform-browser-dynamic,platform-server,router} --save
+```
