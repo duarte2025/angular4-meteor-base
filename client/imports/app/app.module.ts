@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
+import { MyFirstComponent } from './my-first/my-first.component';
 
 @NgModule({
   imports: [
@@ -9,6 +10,7 @@ import { AppComponent } from './app.component';
   ],
   declarations: [
     AppComponent,
+    MyFirstComponent,
   ],
   bootstrap: [AppComponent]
 })
