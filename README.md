@@ -1,7 +1,7 @@
 ## Attempt to create a meteor+angular4 project.
 
 ```
-git clone https://github.com/jonloureiro/angular4-meteor-base.git
+git clone https://github.com/duarte2025/angular4-meteor-base.git
 cd angular4-meteor-base
 meteor npm install
 meteor run
